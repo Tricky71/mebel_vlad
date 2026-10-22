@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" fill="none">
+  <circle cx="26" cy="30" r="20" stroke="#b89263" stroke-width="1.5"/>
+  <path d="M26 18 L26 42 M18 30 L34 30" stroke="#b89263" stroke-width="1.5"/>
+  <text x="56" y="36" font-family="Manrope, sans-serif" font-size="26" font-weight="300" fill="#ffffff">Форма <tspan font-weight="500" fill="#b89263">и</tspan> Смысл</text>
+  <text x="56" y="52" font-family="Manrope, sans-serif" font-size="10" font-weight="400" fill="rgba(255,255,255,0.4)" letter-spacing="2">САМАРА</text>
+</svg>

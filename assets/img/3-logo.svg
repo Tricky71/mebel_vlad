@@ -1,0 +1,31 @@
+<svg xmlns="http://w3.org" viewBox="0 0 500 280" width="100%" height="100%" style="background-color: #ffffff;">
+  
+  <!-- СТИЛИ ДЛЯ ШРИФТОВ -->
+  <style>
+    .brand-title { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; }
+    .brand-subtitle { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 400; text-transform: uppercase; letter-spacing: 4px; fill: #888888; font-size: 12px; }
+  </style>
+
+  <!-- ВАРИАНТ 2: УМНОЕ ПРОСТРАНСТВО (Максимальная плотность) -->
+  <g id="logo-smart-space">
+    
+    <!-- Графический знак -->
+    <g transform="translate(250, 90) scale(0.75)" stroke="#1A365D" stroke-width="4.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Внешний контур куба -->
+      <path d="M 0 -50 L 43 -25 L 43 25 L 0 50 L -43 25 L -43 -25 Z" fill="#F0F4F8" fill-opacity="0.6"/>
+      <!-- Внутренние ребра и перегородки -->
+      <path d="M 0 -50 L 0 50" />
+      <path d="M 0 0 L 43 -25" />
+      <path d="M 0 0 L -43 -25" />
+      <path d="M -21.5 -12.5 L -21.5 37.5" stroke-width="2.5" />
+      <path d="M 21.5 -12.5 L 21.5 37.5" stroke-width="2.5" />
+      <path d="M -43 0 L 0 25" stroke-width="2.5" />
+    </g>
+
+    <!-- Текстовая часть (Поднята еще выше) -->
+    <text x="250" y="165" text-anchor="middle" class="brand-title" font-size="24" fill="#1A365D">Форма &amp; Смысл</text>
+    <text x="250" y="190" text-anchor="middle" class="brand-subtitle">мебельное ателье</text>
+  </g>
+
+</svg>
+

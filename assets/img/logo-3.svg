@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <rect x="0" y="8" width="44" height="44" rx="2" stroke="#b89263" stroke-width="1.5"/>
+  <line x1="0" y1="30" x2="44" y2="30" stroke="#b89263" stroke-width="1.5"/>
+  <line x1="22" y1="8" x2="22" y2="52" stroke="#b89263" stroke-width="1.5"/>
+  <text x="56" y="30" font-family="Manrope, sans-serif" font-size="24" font-weight="300" fill="#ffffff" letter-spacing="0.5">Форма</text>
+  <text x="56" y="54" font-family="Manrope, sans-serif" font-size="24" font-weight="500" fill="#b89263" letter-spacing="0.5">&amp;</text>
+  <text x="56" y="78" font-family="Manrope, sans-serif" font-size="24" font-weight="300" fill="#ffffff" letter-spacing="0.5">Смысл</text>
+</svg>
